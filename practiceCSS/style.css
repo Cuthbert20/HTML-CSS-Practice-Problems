@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: green;
+    height: 15vh;
+}
+
+main {
+    background-color: whitesmoke;
+    height: 70vh;
+}
+
+footer {
+    height: 15vh;
+    background-color: yellowgreen;
+}
+
+aside {
+    width: 50vw;
+    height: 50%;
+    margin-left: 50%;
+}
+
+#a-1 {
+    background-color: red;
+}
+
+#a-2 {
+    background-color: sandybrown;
+}
